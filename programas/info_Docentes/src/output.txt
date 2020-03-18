@@ -1,0 +1,894 @@
+
+name : Adélio José de Moraes
+status : Professor Efetivo
+lates : http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4794552U6
+email : ajmoraes@ufu.br
+telefone : +55 34 3239-4710
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/adelio-jose-de-moraes
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RUudoLyWEC8pwhWkBgoc-0bk8Nwm0_FFdVnQTcKfcbWIKKG_dc1dyKorsWULZ-W8Phdx76dTHfR8nWpGo9VaMU'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RcGrO1NcI0mtjDOK_UYQgbIczBi98rfQDZydI7hUUaPs2blviatxZ0yTeEzuoT_c_O4koOonM4jICAv5yA7JZm'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QllcLbUDcQNDhH6d5DS_jTYlgqSryvlDGSMgRjGhLLp6s1DcweW6XqNOrVfgRxqQSRVtW7Z1Zyg99HZi0g83fG'}
+index : 1
+
+
+name : Adriano Alves Pereira
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7340105957340705
+email : adriano.pereira@ufu.br
+telefone : +55 34 3239-4711
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/adriano-alves-pereira
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5So8SWy6mn74Y7zbLlYIh4v45XkZbiQkkR4CK5fsjnDQCK0LqqK2QOrgi5w_iF1RPybYa2ENd7H-tpw4RQgBY9J'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TLmBrq3n2p4N-C2gaOky_Ks39MMuJzyo-00NfiBVqC9P_NBJv18zHArSJCH9LFTuq9unsjWTgkHrLLxDj2t_jA'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tl0N0GK8VtTyX_uMvd7kRHiW_3ACSHVrwvcDj9cqKKeLoYSFpa39D4chbGIB2I2UuO5-T06MsyMN7bfQSsnnFf'}
+index : 2
+
+
+name : Adriano de Oliveira Andrade
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1229329519982110
+email : adriano@ufu.br
+telefone : +55 34 3239-4729
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/adriano-de-oliveira-andrade
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R_RS_mGAWMdu4jDo5Iq6Wtnc6kLRaQ-G5h0w-1lSFOIE0_ISq_2_ewXB0VJkZJ1W0M323FV2eh2PTjXBIBxriA'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RXxeLhrFxnn5j2B8uderGGjhdczkmNRyDslYt3MDiG0mKqHwoagiOOoWPQv-SS0atNIpuftm4Qy-jYFXyc6ZXY'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QSwIY-ikWw3D0fwZcrz4xiICapXSpbepULthA2L3qiHffN2GRWI6hO_5ZEJ--a0ZRnWg3ymALDghosjm1Fmk5W'}
+index : 3
+
+
+name : Aídson Antônio de Paula
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1424510267357517
+email : aidson@ufu.br
+telefone : +55 34 3239-4773
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/aidson-antonio-de-paula
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QtQ5P3b4__5xHqRl_RPcyLXUtk5cpZWctx8HeQXDv2o60gMZQ3NgfFT4RY0xcffP-AR7U_tgSGqp5ihNJtHqP2'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Sv7XJd0BC3KhXCgY_fstW086DSu8-MCBwH65I78UfV6nC7m-Jcs66wPxvxrgNAySFEuAY6zPhnzIMKzYFQnNL4'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QTiqRxm_TuV0EJOd43qUWiGT2gRXJhXwgs1IVrSrzUOVGh74VHu5MWJoWNo77agM0cnUX47dU6IeZ4iQhXo9E-'}
+index : 4
+
+
+name : Alan Petrônio Pinheiro
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3149272924238565
+email : alanpetronio@ufu.br
+telefone : +55 34 3239-4750
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/alan-petronio-pinheiro
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Qos3prjhQVTOla92wrnejJ1Clgs8fnrGeZTq93hJVNEBFVBj0npljRhf-oGhetSH1h-fFlnEHMOOc-lPOoSNMx'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Svxcwe_YrSxXzX8oqeL0cpc8rcSjou1D5sBm6QHrXbCk_iO1XIcmeU5ar1SCJ74OafXJFGBCEdurb9M47odS4m'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RJIHLQ6VulSSs_cJKPZuEYWioyA6Bo-Fwrlnz1le2k4czLoDKpyfchi8nppyh1OBit62EZ5slsRoJXxG_Mll22'}
+index : 5
+
+
+name : Alcimar Barbosa Soares
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/9801031941805250
+email : alcimar@ufu.br
+telefone : +55 34 3239-4771
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/alcimar-barbosa-soares
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RccIgy5lkNdoEKqD-hvvjtQeFXI5gfiigMdjKsX9RJB0sOEWewOVrZZP138OUSfUiyv8BXyS1opwUIy1a0nfQ4'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SkqssSAuXJdSa-PSlGOtiownCRTiq4qEp3y3LlqVg1VilMUVHnPEVSU_sKr0bk0F--8Fv-jSvj0X1VlyFMuvxQ'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QoSDe4Za2TGsK9qkOdorjYh8a8Z5qjgNz96os5Bd2e0KkjwGrZdXdZPjJBCfNU8JrTfN20QMGL7hOdokzqOpQG'}
+index : 6
+
+
+name : Alexander Bento Melo
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2656367469245982
+email : alexbentomelo@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/alexander-bento-melo-0
+link_pdf_plano_de_ensino : {'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S3eddoJ6HYOPYlJSVE1bcSeLtQ4CtZ0aBxG1PdkR8y61FepdtiIJl2p82iUrWbSMd327aA7H0I3feGsgT3fJc0'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Qv2fyZQ5hfuyQdi9NcSv-5xuLZmqBTDsfUKiXMHHiplCN5Ztr0QviWL3ptW2vfWoUeo21YrQSc3bKhd9viQs5a'}
+index : 7
+
+
+name : Alexandre Cardoso
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3767009717402045
+email : alexandre@ufu.br
+telefone : +55 34 3239-4714
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/alexandre-cardoso
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S9MuXYWxdPHwmrqKYcZH-FH2KJlLgJVIi_2TLql0C_bX7nlXr850NNlk8m5Msf_fJDlLeSHz4VzL2s72X6HTWv'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Quvl27665y4vsnk6wM0BGdSZQXjfvHFfb4p3dhRUIHlBZCmDrehwfKgP5ZykQtuamAnlftlp96R7MDczqQ9d0o'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RMpf9a4QLkfyfdgHm_vocUbHU8QA7drLphtJqmFF8Q9QZExJGdeBIXwXOO8e4RgeGw8MSWfAg7l_Lk7PdeFlO8'}
+index : 8
+
+
+name : Alexandre Coutinho Mateus
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5723816513897339
+email : acmateus@ufu.br
+telefone : +55 34 3239-4744
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/alexandre-coutinho-mateus
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TNj89wr9sB5AaQGIqiBiMYWF6M5Vhv0wLDzcbqRwtF2DfFXZJ9h5wqvbQkQU5LV4LG1QsiADTCUsL02cqH6ndS'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QDhnNh9gP1WTYCus-0bXAxobTp1HrqpoyHIPCV_PExJFYi9W6pzxX2puUXpEqa8LuqbAnYgnzcGOUGnLw4PyVy'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QKNUnFn2342PC9yLc9B6b8LxMvLhSNLQgsGa-umlNzrAKOgp-lmtvvlhxtDU6w1GZIOt4Qp2mXk-jfLZH8ZMSB'}
+index : 9
+
+
+name : Ana Claudia Patrocínio
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7277318969645668
+email : ana.patrocinio@ufu.br
+telefone : +55 34 3239-4743
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/ana-claudia-patrocinio
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QyrbBrYldJyNKXbnceedggqmWJvP_We8ZhTiMVf9HDU0Ptc66BFboJX7N7cRUUskR4t095Tbc1rCQzaP6C34zL'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SUmzdOpL0LyjjPkT-FGr4k5A18c1ApsOtrEDFKxEGpP6hJj5JtffpY2SfRgFwxrAXJajiR49yRek-uoy9rpfa7'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Qsh3XTbYEipPztu9KxPs_Hx7JFKu1IN_XC9X1k2zGwKywgrsJHBOfS52lfh0id8kSrLF6Avl0SkcxuqOcq2XX6'}
+index : 10
+
+
+name : André Luiz Aguiar da Costa
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7455660237808982
+email : alacosta@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/andre-luiz-aguiar-da-costa-0
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SO-zEMsMTEt3SVCrNMSQ5OjWqaggmdgeV_9mRK6W68ZiwnxpHX5sGmS3n48N6yymY5Mx-ZQZr8T70Owf-w8dii'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Te9hpF-h9_AeTLotHWKefO1w3fuAmtcBIRYuN9REtqPUSyZqrlZ7wEOEgErtdS2gVM-I12tX8KqYfZX_gno6h1'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tylvupai87i-1yAQeI_2rZE-TWJEzIP_DuV4i1Lub1MeY6eUrt3tM5PE9mJtOvpqilxMaCu3VJkSG6ZDO5EDnJ'}
+index : 11
+
+
+name : Aniel Silva de Morais
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/8844251698422960
+email : aniel@ufu.br
+telefone : +55 34 3239-4749
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/aniel-silva-de-morais
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SjphTP_JP80GdKwo6pWQYEghhM341ee50I6y6y31KyY4HSfowdl1pLHoV9yMnoT3_3zzISTXIEQTOnGg-DqRlj'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RYZnnuEdunCdxvvM-D9wbLdGLfNFnNZgiDa_Z0OLHX3C7nAA1x1_cbfd43aXmM4oqyfnd_RM-170ULU16Gg2dT'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SwC6WaEmxORdNRNQZEZ5eA5_3RmhCxDtrMZkFifKzJBdNU7JnqOcN8GhMs8gQ_wbNBqOGNS4kNKkl9xZEBEeM4'}
+index : 12
+
+
+name : Antônio Carlos Delaiba
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/8714968872103279
+email : delaiba@ufu.br
+telefone : +55 34 3239-4716
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/antonio-carlos-delaiba
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Sj9L9a1e3bfakMQMujk6bDL3Ykmlh3SxasBSV20Ap9DpSTqAVvJMj2qskj5Cn6ky3-IXWguhMbvX95oQrvqxci'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SdZl5dMHNO_RgfVzoiuhjdQq-69-N8FFGkJw4Ewz7Jdmh2XRJxrA0zTTt4TX7Kae4bf7MshTwb2B8S6XeEjr-_'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SieKgJS98n1UQyF-dVWEgsZXCX8g5AvDjGqfbscUDy9mnDc2CrLa5lwGugXHLOesSUDu4oIBQkalzSLvZ-LEaj'}
+index : 13
+
+
+name : Antônio Cláudio Paschoarelli Veiga
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2835416571685218
+email : acpveiga@ufu.br
+telefone : +55 34 3239-4717
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/antonio-claudio-paschoarelli-veiga
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Rz6UuUykugc7iHbYdetc3Y51Kj7YbhEepb0ewlDT8PGk0d0quy4xdmqVcBhMI821Wx2djsZmZ1FAG2htQNSDgW'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Ra4M6Nq4tILVkgydU2_ZyKj8W_leTPsmUU2DxOEhkHF8DD_mU9vEnLEVLkgknNDxwTN3KcafCLWrX0YNxhxsE9'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R5cJWsOLb3VrdUirrsFfC1V3tDEW5Kl_eJ7tq0ydb4l1XwbwtuilT_1eKU2OfzMrBtko5_GYHubR27MFE2kLe1'}
+index : 14
+
+
+name : Arthur Costa de Souza
+status : Professor Substituto
+lates : http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4316071J3
+email : arthurcosta@ufu.br
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/arthur-costa-de-souza
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QOrcP9L8NIUqbGXu4CfLvACXv2yl32pX2WjGfAa96PS_347mJMlg19PkwQ_WdVaYI2679VgXjHkxnMfbofPhuG'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tbngsgp5e602-h0MPWbFRX-_s3kE7wasLNG8vvK85YN_Lsiwfz2q_71mv9Vkby2_cVYnDl4-PE85O4Xv2MUqDS'}
+index : 15
+
+
+name : Augusto Wohlgemuth Fleury Veloso da Silveira
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0283876707718262
+email : augustofleury@ufu.br
+telefone : +55 34 3239-4766
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/augusto-wohlgemuth-fleury-veloso-da-silveira
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QgP5tVGZol0rewmrFzRHuxD8YOS9gCCEnOKc_No_fiE_PKbBMvSwZ2fzLNp7fN0KwGbO6vSR1d721gCvjSI6vp'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tmnoye4HgTVc2paU0UoG5uf7eiuy2RNguH_1uEwn6E-gP4DlKQh6skX-_6sDT4b7NynLtscf3dJBIjiFT0cu7n'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QHDgKWbhk6KpA6-GtK_F_HF5BGLV-YvjVICWBP36ad0lfTXdrQ91USevhXZWe_G99g4FuVivBCOrbSVZbl3u-Z'}
+index : 16
+
+
+name : Carlos Augusto Bissochi Junior
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3674269727266520
+email : cabjunior@ufu.br
+telefone : +55 34 3239-4719
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/carlos-augusto-bissochi-junior
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RGCCJ7uzyN2vZy4g0pNuEaTmJQjaELTNCMh5_SK31-mGAxX_oUNMz0UbkQXn6UEYLB8uNpdCJZO9PIMpkmXn77'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q0unaccQjIK1ofijq-YG1qRx_HhwiWmbZZx92c4eoYnDVaxgNhtQmFWQj_lOJZrVPGlMnEWKoIbaZGiH0BHoML'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QXjoLCL7Txfm7595_72bvqdS1rPd4fYqwNmg-kmtm9PIILb_MIOibS4JWP7x8y6hSbRa6q7WL3TeyV26IlfLGu'}
+index : 17
+
+
+name : Carlos Eduardo Tavares
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1493379294936870
+email : cetavares@ufu.br
+telefone : +55 34 3239-4772
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/carlos-eduardo-tavares
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SUJ2_cFYM5Gv-Y4ttZDUQs-uBar5-OkiKyAa6ORewV46xNX6bASPR9nEaDmcsOU4D56XrNb33JuBfBa2wqq8HY'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QGLMp7nkFcQNGazU9JH62L3nfFgA52sK6MeEWSHkeC1L6bxZxFlxXsYeRIu_4GQE1GBza8Bwc1uV5GC-71sQtV'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q2vrsAhhtSA-h7PNO0CIwBG2ph3TO-yN-TObbDFXm2vO5ldDgJ4czN8RUGMWTBAc8-OeuEH2YqARflKOaq0mGG'}
+index : 18
+
+
+name : Carlos Henrique Salerno
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4114004590159315
+email : salerno@ufu.br
+telefone : +55 34 3239-4720
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/carlos-henrique-salerno
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TeBCVB7aH4061MoozE5aPIRsqcoz3jodQ-HfGIwzQUXNMZmQ4A8NkYSfUiBmpKlizYrjM7nY1rqpXdkD7DxXF8'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QCFoa0fkenT0_V970I1hntlF7UCJASWiGbOBz9oZcLzOSWG2Lv9em5VcQaHdFiXBsnWIvPUb9tTdQppgRF4002'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q8KcBRO7NLAobHmY6wbbcGBAipMAXyK627WxnsAfoqe0VnuxzyLQRHYhkaiggJxPM96bt9bss6o1y9EMkO1R2E'}
+index : 19
+
+
+name : Daniel Costa Ramos
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5562358915665822
+email : danielramos@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/daniel-costa-ramos
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S6ZPOqG007EpSR_jQWI5E_UTNRKrvDLcBPnBIQD2i5BLtR_oj3GSr97H4x7uhBdNuxIV2eu_KviZVTLwmmoDvl'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TPptgfPAA7mFi9JvINHRzLcDfxCMqUm0dUsBHobbZ8RNRUOkUSe8tp6JqtMlfA5pV9Xld-BfA8FtWGvbfgGzOy'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QggE_1pzBPylpcNx2DtkJKvrp7t-w3DFkOYpRQZK-kltIySEBEQmpneUDLRjN-2jYmbTK8h2EnHJCsjlfSp_-c'}
+index : 20
+
+
+name : Daniel Pereira de Carvalho
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/6913144515674244
+email : daniel.carvalho@ufu.br
+telefone : +55 34 3239-4779
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/daniel-pereira-de-carvalho
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SWjwXmS6hKnMdI404wf15fFkuhaXSu9DnQgUso4mXJyuA8gBVqjl3r7GH3P57uvmvBpzBgxrHBIToA5XR0b6Rb'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TkkOR-j3YuhQ4bQ9-mdI6vxB8R-tvL5-nQmIbBBrGuD7gEy02RDy0PLkvMghV40jVEAEXCnrVGmUBocYAV8KTo'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RcZbX4zhojuzR6p0gJea2oajeX6JC5YDVXIID6rDys32S3bkq_dLj1yQLnxZXjlbZZBT3c-50R1dBr5_CxhSnf'}
+index : 21
+
+
+name : Darizon Alves de Andrade
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0010205194816384
+email : darizon@ufu.br
+telefone : +55 34 3239-4721
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/darizon-alves-de-andrade
+link_pdf_plano_de_ensino : {'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TIdjAZd5YMpkT2RZ6lxVkJ9c66v0mGhOY6D5UU5XMoXXFwG_oKJ10PaxweU1WHWkcm7yzAJd7IN81SREbW8cJn'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QNGO_jbKFYvprv6VOJUxoYwQwp9jR4lUeeSvHoAPcv3b06-5nsKfmhO0XZwkpEME3rjrr2enFdOas5gN0JeD2p'}
+index : 22
+
+
+name : Davi Sabbag Roveri
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/6851430615159158
+email : dsroveri@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/davi-sabbag-roveri
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QiAy_3QTxO6TwxaM46qAx1iDNfbKjdcfp21iQ57HjJxaFjEFdYbkB5m3XoYjdLBd85cwHLjkhwS9csXDxeLKZ1'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Ryb5KfiZ5Sn9RRPCELPG4GURpSUoY13r3jfSjtAnDVP1lA5ecmEets2VuedHB290V1phumUhcdsFCQ5KBm0oVC'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SolTQqPvQwo_I7cDPJEtX7cWois32ML8gQTjfyBKOg7flkrdk-Txma3IM-KWic4HDSiaF8mduqfUmqMKZlX-SU'}
+index : 23
+
+
+name : Diego de Brito Piau
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2033810796616550
+email : dbpiau@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/diego-de-brito-piau
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TgfbSIROY_2gleRKkc92fFuLtv-BxGaNanyWKVwKFKEtJjEcGQP_bD2txhmAsZZSkrM9GLvgNfYAgfPjFVePva'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QNgJqUYkdq_Ro1aKQ3Rul88dO_tjf0CjGMLsHGj8lJMRfh6rPtYaSGcIIBjWoa4IP-QrkSx2q73W6hu439fKxg'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Ri1xDxxtJGZc5Vx0YUVD1DTP-2sSUyoMyAs7JR4FX3KJ7VwVhOX-_jjDopLu7C_eAWPCj1o9B9rJFqiw5RMBdF'}
+index : 24
+
+
+name : Éder Alves de Moura
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2638643671391285
+email : edermoura@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/eder-alves-de-moura
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RHJHdAqG-R_ISr3ghTt4jWkyOeMGT80kBgOpr8-apnREmRNgsNw9N0WDAi9CrHjxuIa8ezaJmnDdBu1AStP_DG'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T6XCVxMO1UFllGaM0RAenmgl5RL-Q1lFfI8ciruqMNyssP8KmVHqtAHrm5qF8YqpwAad5aXdgWNE513WnEnuQB'}
+index : 25
+
+
+name : Éderson Rosa da Silva
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0745957106999584
+email : ersilva@ufu.br
+telefone : +55 34 3239-4782
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/ederson-rosa-da-silva
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TjKSy_QiVa-J_7Kasf-4OJJw-01x3lpNOmi9oAdHZAGaPL1zUtSayJYKQbP3fgTgK8YpKxR_Dyw5Miq-D4tQpb'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TeWJvsbu6dRkVHBxAk6wXEigVeICZFKZCTIVPxuM9qZoMloGdeubctdxgE_T8DB5n5bNb7y9wXiGqHh-MoKzuQ'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R2JoiJ3NEC-1EsMt5ZKq0C7x_txsRcc6MuhFlhj8gJCZ2ddcbboymfUDsiObCao_i8KJtucpZ8L3lg-WqQGQHV'}
+index : 26
+
+
+name : Edgard Afonso Lamounier Júnior
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0239619592699303
+email : lamounier@ufu.br
+telefone : +55 34 3239-4723
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/edgard-afonso-lamounier-junior
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q9xeRx8lsQxQn_dYOEmaETxLX258fs_OMYPbghNeNM_mIjqVrVIljJYXj3xIi18kx1FV4YXR9PvU-bR80vVo1y'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QPAJ-VU8BxwjhHZJLn3GsZZgm3gxSj0xCDh9dJSlkj5cUTSvhg3lhqWFFrkCRTnpHXjz4gjy4KnUxFclGMby86'}
+index : 27
+
+
+name : Eduardo Lázaro Martins Naves
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5450557733379720
+email : eduardonaves@ufu.br
+telefone : +55 34 3239-4769
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/eduardo-lazaro-martins-naves
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TPkaW_4x8qVaS3AeX440OQEavFyJG4KfmHHikjfcgljolejHnzySqlyrBAfLlPXvfthbKVQxCjXiFnPqmxiHTh'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SpaIzN0X_0wEct1Y8EwSC6jp5WpTy0ptNt2Bq9Lrh-ZGvAtUNBj9yCCyM84-lXOChUR_ILYcVutBsDgYC6qB0U'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QVCNLAQlwERzi5nlcv9JhjVNBhlwOBeiYlVTVcSobKCrINGdBkeUVi137ud8DXRUAdsKJXoVdRi85GrQri2qMQ'}
+index : 28
+
+
+name : Elise Saraiva
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7164916874517239
+email : elisesaraiva@eletrica.ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/elise-saraiva
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RJh9tHXo7hzbiqNl8mxN8eSjpAD0u0HMBZbsCz5MCGRJ5zOq2e64YExsBWw1tWWuJd0cSoHxqDuT-AQfEUR31u'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RSWn3GK-zJXznCbrzCr75Psa8X7UpMexsGtLKUPkMAXaHhOpA3abCSmChtu4zUkvETzMU6vcoYzwOMz8fKxPl-'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Qc2JuhhNUqP98oUaM7jQXe5ohc__LX6nQuwx9WNIo6ubB01xltRxjLTUWf5NdBmiec19HYFEYBY7A-TORa3hpM'}
+index : 29
+
+
+name : Ernane Antônio Alves Coelho
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/9183492978798433
+email : ernane@ufu.br
+telefone : +55 34 3239-4725
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/ernane-antonio-alves-coelho
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RsOFE0JLPzStEvQXWTgPBxhUtLPtFuVM4vJRggfYFKPxo3GYFjrPKsi0V5kvgurq3EhxncJv0jiRwNLshUUdA5'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5ThJv1WC5giPD2eAygh3OmwfNWA4uuL38TjXSO4YMd0Tk74ylZZBxZsCBvCIT_QRl5HR5AFz_fU-aHiHc3Sf5YZ'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SjwIzC_uC_JEgTg_qbzelm4H-88j1KN736HKf8z3RAnMI7lDVIzhyy6V3tUmzh5ehf9n8ci-SZivdYY-5CBb7S'}
+index : 30
+
+
+name : Fábio Vincenzi Romualdo da Silva
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5110686859702602
+email : fabiovince@ufu.br
+telefone : +55 34 3239-4724
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/fabio-vincenzi-romualdo-da-silva
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RCa3ncekha1hkckAgV9apUdt7KaCajWmwkAfFpVcamYkaRnxVrd5IHTy2hymD9WU5eKWmwAAKaHdDbEgyL0rbp'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Snb6kF3xW_bU3gFJae4gKLF8QKEbzkeyCtVLhn_nbNmoTKUaHx1RUSuMuDQhcMkWJBfPfCSL1od1ZgpIFfXb9-'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QEkDSOsvvAxWdNC9EvOJUCwo5Rowsi0QU4uex9LPkWLagPQm8TcwTT6SjjTXXBBJAFy-N_Z4Cih5GKd1xyWMNL'}
+index : 31
+
+
+name : Fernando Pasquini Santos
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/9047298948861003
+email : fernando.pasquini@ufu.br
+telefone : +55 34 3239-4715
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/fernando-pasquini-santos
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RCBKFAoaEWTCW7lnTBs8volo0hfdHdR7q92luY90hsBdBdQrZK_QShedH4F3GgNoaJjGXTopiN9f9ItkCJKvcU'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SdcjYcu0qCRiYBCadYjG6eFwmN8Is61LZY4xBYFK7SgesJan9OPtBHpB9vWArBoNVkLSaMT6_U8W7Bb7UPH_fi'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QgvzjN_6niu226Oj9mV5WvHa1UvanEXjWuBCDO4D6vBfVjG4A3eDf7LTaugyt_i4Z8GpQTSCLaRsk_Yaw93urF'}
+index : 32
+
+
+name : Geraldo Caixeta Guimarães
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5516876395405680
+email : gcaixeta@ufu.br
+telefone : +55 34 3239-4727
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/geraldo-caixeta-guimaraes
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RZtbReQePbSeGXPy8J21der4vEfaMpVFOGmohEp9tKESWVb9wKgQAvZ5TyrvFafoxF4gySJthUezTsLVPAgIaS'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5StqddN1VEGfgAyLv691DwDpJMw2xWNyLiwcph3h9j4johwVoRNZf-D7oJE6_RHeCMH08QUIrQ-3qzVDB-58xIE'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzOpuTYF2pqmfYLV6csBJDxptVhOK1V88xsLmo-6UUmaHvKL0rtEZkypfTK6S5JhX6YdVIZi5l1Rdq4uFr_YF4PU'}
+index : 33
+
+
+name : Gilberto Arantes Carrijo
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1358511937659656
+email : gilberto@ufu.br
+telefone : +55 34 3239-4728
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/gilberto-arantes-carrijo
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q9SCWsNrOBupXtIRd9KwCjCQ580oI7t9Ith5iRt9jRQkmvdAO78xpDxAjViuakleMeh4iLrKqWXvcnqtBX21eS'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RPtSKMxmH4Hd_4dhDf_cHib-fRqFoiX_8hh6KBbliBGzgYxRYzzjmjmYuaRwrZbicpU1bk9Dfvn6-mJxA1PIfu'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QJoi52GMDgQilxwVcZZ0RA8nF_I3PUZ9ef_LGQSQp34yqxJvjdCumM5zuTiCufVgZt-2P4NNYoNQHSvuAnJ7g1'}
+index : 34
+
+
+name : Gustavo Brito de Lima
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3547526218965223
+email : gustavo.brito.28@ufu.br
+telefone : +55 34 3239-4742
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/gustavo-brito-de-lima
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S8c36FUUhS1_zGpZgnwOt79F7B5k34SJ237Jd3tHa7JnfvY2VfxI-8mMBEMG1T30IW1Tqx3_AUDHuppsqNwbvq'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R3p-nwc4UNu-W49QpQ2HS72d9rVbRcfpl1F0-bJ4bX6X0z6sx4v7yOM_KbH-ybAivbTyQl4yLPbaKXBBiR9OhH'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Sq6ZRUanNv-AVHLn4C77WfK0aaM2UJwXevhwvXR8GDznMhCYxNLumS7wnOAriWeULXKAGIrSh14ORK8rEsW5a0'}
+index : 35
+
+
+name : Gustavo Nozella Rocha
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0465301449074502
+email : gustavonozella@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/gustavo-nozella-rocha
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Sw16PI2hp7kQcTg_jRTZWtaxKk8bCsdjtLT-vqkaxFoOdOzsuv_F-OIijerhZSkxGRW7R8HTHfKr2NDlMKsrt0'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TXteVTgRMU5h7zQzOJHZtDnqvZ5L3gfOFSy_WX_c99VWJYd_wXhpL_leSDZDeUQ7brU2v0VhCE70MwZrsUZmKq'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SUIPO3IO9yeszn-hNneobOWlL1yJ1Z9pUVYEPflm-XVdEyZHJC_kDI6UFYezZs85MHVXFIlKv5HSauEyN3qiWZ'}
+index : 36
+
+
+name : Hélder de Paula
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1659484189549890
+email : helder.paula@ufu.br
+telefone : +55 34 3239-4736
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/helder-de-paula
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q_oSK6OpuMW3fwprbezkNIKArjVi7xxm2H8u3y0U0BoL5jKC2KnEdEKW77pok2vTToGzDj3J1pNrHzsU5E5t8p'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R4hGEo_VOITFL_vOx6CrgsE569iNktCOoqApzx9tEX83674TTSg7flGCpPL5iubbFbyhpyQD7tQ8ZUPo06hn9i'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RwNEMyOVMnSKjnfEs4IG8iZ3KBiiZKfKs7iq6VDW4bMcOASnTPz-OWB_710C6u_lqsiofAErKbg5QnCHIKHy27'}
+index : 37
+
+
+name : Igor Santos Peretta
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/6826511824160198
+email : iperetta@ufu.br
+telefone : +55 34 3239-4778
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/igor-santos-peretta
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RqeDf_4AmW6bl1d7WarcPqugh-nIFlP5Gk1k5XVCZHT8qdcpnhlIRkGWmHHWivD7uw7Bfq2hyAfeT8TrHYHwys'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R80NVO8aER1G7wKgfPgbO6UdaPCse5LTXHuMEyOfchEb0v9LjylMxQRL681oRypw5GcmXEw-qAOu5d7nWQLX7Y'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TLnpp7LmGY27INU_STprqayNkHA285IkC2B2foU5bMKkuxMxZ4uKrq6lt9_KaGD9HDLHyp-EwOZtIrsRmEA6YM'}
+index : 38
+
+
+name : Isaque Nogueira Gondim
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3923720937771158
+email : isaque.gondim@ufu.br
+telefone : +55 34 3239-4740
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/isaque-nogueira-gondim
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SoK_fiCb-o3FemHpG9z5Mu3sXosmzMGUZDeFqBjrrsZWEOnR0SXRK9VmN5rnfIEM5ZdL37wxVbwpTGB5Lf1nIr'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TANPZYPkHQhrVgGa-CCzxV2UtGruajCxJjSkgyKiTrFS_Gt78Zqpd6wIWBfmXe0c4PrKBqqmGnOc-9ycxGazzr'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?yPDszXhdoNcWQHJaQlHJmJIqCNXRK_Sh2SMdn1U-tzM2bMHvdHEfNFSrRCUaDUGUwsrvJYYS_GAXbxSyeoi5BiY_ZHD43tljWRtribmS-cfew67QiRXhwcumtewlEbl4'}
+index : 39
+
+
+name : Ivan Nunes Santos
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0590030130547029
+email : ivan@ufu.br
+telefone : +55 34 3239-4732
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/ivan-nunes-santos
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QuffrH6-xATdGLZo13wkLhUtzxDFjU01aILhIAC9wmWpSCtF1Xx3-THJJ8LRHTMHAL965XAB4j3hi6uUMLDQRf'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RB2CFw-bXP9xRtf5qcGUTIwPQe7xvJMabr6KojsLliAoWS7ehAnQLUDUV-n7Lv5TUu6kClwUDnJ3dvvr7k1iVG'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QT9n4DPIMJvOo3LVgMhgI5QmTpd1ykLkCLJQZzLI95pqylwbBauyYWPnjhzmSoOPFNrnolCO0iS2wjibRFLKqg'}
+index : 40
+
+
+name : Jeovane Vicente de Sousa
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/8812445612311664
+email : jeovanesousa@ufu.br
+telefone : +55 34 3825-8871
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/jeovane-vicente-de-sousa
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RpLUlxzfGTYQiQPwf7aaTjmNiX_j3xkz6l8JksoKCDcqZBaSISJHdUVd2oNyRdZOAOBzI3GduDX60rnUI547NV'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SqTF8Je8tIeNVkKTL_CzEnIcl2alzitfeMFaurxMWisj5YbReZHyzdnJ1JbAz6AZjMxHhLtSYsihhYfXJgofq4'}
+index : 41
+
+
+name : João Batista Destro Filho
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4173410222083256
+email : jbdestro@ufu.br
+telefone : +55 34 3239-4730
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/joao-batista-destro-filho
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R0GINv3q-8dVChwutrWu6AR_3LmJCJUorRjqYiQlSyjGA2SG8qRE_g6MqEYecLp62X5kt9AIp-vkRpowLUmz53'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S6QpaXLwoTJZYDQBMK7XvtFxzwn1zpkOVWZvJYJZkzlN8kNhjKDktxxfK6xUJncjtuFgDpAjJIgih8JyrPdPo_'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q829FJAxhhyutW_FAYK_W9R9Eo1scspVWaHERbq_jKoMl2zcKvTMQHwXz2ObuoCmJKbE_UBk-iGX0ShYdauilo'}
+index : 42
+
+
+name : José Roberto Camacho
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1516750463026262
+email : jrcamacho@ufu.br
+telefone : +55 34 3239-4734
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/jose-roberto-camacho
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SZMzhFg4BKVUzV3-7hIk11JInqdL7sBySPieSiHAEcG_Duvw2nfNt1YKrHv5O5yU5rEBnqUd3DyfMIPpdP45L_'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tv-dEetkKuVhMu0S_u-gg6WWadBSr3f3ukSweSrwFj-1tx3JAO1apZJumHNvoYTuuuzxoGmGtO05NaY_udOzj1'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Rx42NDrrtBUm0yK7MqCA853XHojJ5aWJHa1lP3wZg4vPlQOhoDfP04VoruvDL1HYmsi5z9dFyukcRxbpBNp466'}
+index : 43
+
+
+name : José Rubens Macedo Júnior
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4480967220539652
+email : jrubens@ufu.br
+telefone : +55 34 3239-4703
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/jose-rubens-macedo-junior
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SmtfjbJ92nF5asBLp4l1SOdpJyYI7mUPQpRmx9aQsCK_8yFl-MVMYHseyW_jlQLhDtG8C9NPwzbfJ2xCfI410l'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RoU8OlTeh2Xo6xfm3y3BAU-tnrDzONZFSIQDih0BwgGrLpyTwZZzx7djvDqPa32uwi0kazZzvgVSljnOkXigMg'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RRlczo9HiMB71L54NddIdOrhkbGDbnaLX-SRONZAwmWBYbBUxRnZUSIoaL8yVvI1qM14iBAjdVQ0bZSLhrW2jU'}
+index : 44
+
+
+name : Josué Silva de Morais
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2007658962904545
+email : josue@ufu.br
+telefone : +55 34 3239-4746
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/josue-silva-de-morais
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SbZAXjXYX-SC16M0bxUciy7yezEbMfMTvNiQx9IQmgdUUh9pbO_8yXu6nRsblWRRrFZ_2HdXD4tpWTDAo6-ZGq'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TgvzU64wteeoHFNb7hq9e4hSsezP5WtgXAMrhrZm7812q8E1k4Lb1bhVOTCRoqNKaRbwcSWHzRWt9xiR9XxXSs'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QzgS2HpTuvYMvDmL5AIPzIGlHbDaHnDktP-nm3AJl4cyigdEncB3gerzsUq7x-i0oOZIw377DEDkDCANh_76Py'}
+index : 45
+
+
+name : Júlio Cézar Coelho
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3309306951751923
+email : juliocoelho@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/julio-cezar-coelho
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5St8x3iJisNbwR_S75ruiaoBd4820I95YOK3tU0Alq7YNOAbY2BzSH1fjbDcTxopBMRGioSq_NNCQEymf8TdEE_'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QKixYBHuz9HazDC3E6d8m2lrmck2PX5MfjmtzJx5xmT25OdV1cvT44o9CC4HsSnaUNh4R5mR5eaL1NwCWjT4Wl'}
+index : 46
+
+
+name : Karine Barbosa Carbonaro
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3012261650709057
+email : karine.carbonaro@ufu.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/karine-barbosa-carbonaro
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TSxKDfyJvpEvvodMCY1n4-mB46fGuMo4wqduKjUgaBUoAPBrhp_gB3ZEk7262yYTzuDfJdkCZmORn2HjYY2A1Q'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RxM53KHUXS9g0AOkniGuKmqvZpA_Dt1Fks7R9mhbH2hsDa4t9bST5Gth0gtrlgmeHtXkEdhmHSjKh9TwaGaafg'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Ti0kPNC9PFfpKFl8h_8SAzf6KBI7zgRGyYPSBnOYyD07DVCiBINo31PDX67l7DWemta3pblQ9O55a1P13OXdp8'}
+index : 47
+
+
+name : Keiji Yamanaka
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/9893612181758615
+email : keiji@ufu.br
+telefone : +55 34 3239-4738
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/keiji-yamanaka
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RXF-dV1ovRMHXK5Xqgj7D5E60lLqCYGmZJGGs5MFX1kPhFTVfTr90iMryHPGcx1Jm2mU50UzDp7KNcnYlMc2f_'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QdNZ-kF9FAAxN2eONoZVnkY-tcXkjrwskqK3M1HhxyaREFq_K0sOGPivXOeMQa50zX2rjy3unaYHFLL3C4Hdwu'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5REiDQluvLafb4LLpjVMhHFDrInaXrMdPkpTnccNnb2LGHn3lwOgfP04xuwVroayfgkCtXZMAtSQx4okBxZLi9q'}
+index : 48
+
+
+name : Kil Jin Brandini Park
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2730204955649484
+email : kil@ufu.br
+telefone : +55 34 3239-4778
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/kil-jin-brandini-park
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SN7HybYgSL7V1Si_MrVspALKaApxrTyNMM0WQlTr0FKk5njyLWBSgFYpOLNK_i2d1j4pv_mKjMKKf2i865CMHA'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RJPjrGCDZVPMKTrG3xzViGpcay4P6EsngWFCg7PzZdxj2hSB3J8OFYJmhu-O3Dp-LYNKtfOYmpRPS87Lq-xXZR'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QXrVmdoLcggnOWJfp9b3S-tMioFCZtzi13ZgZEpHrrKwV7LsFtuAegJclDAm8JPRnkmk5hKXIHi7cqjQcH21QV'}
+index : 49
+
+
+name : Kleiber David Rodrigues
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3279392126274328
+email : kleiber@ufu.br
+telefone : +55 34 3239-4739
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/kleiber-david-rodrigues
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TFEm5fzLncmqtPOr_JTbLgsFJ-gkVLolAwofDJaRmNgu0GeMof0sSEO92UXY3akITBUs2-QwJQUNuPh7RREiTb'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S3yyBc8lKEIrndmjf1gUuI8Y_31pngAnIgWaKiq_8s-5phpXuunR-mId721IV9eC4udB3NyBzSe4ihF-smhVHh'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TkKZXDex73voKWDBs2cGRO_RfgzLBQf2KvQ7bG0A2y3H2LV1YDEruEolTKTkZeSxKlOQHGmH7zju0gSSCV2h1R'}
+index : 50
+
+
+name : Lorenço Santos Vasconcelos
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/9113323217558840
+email : lorenco.santos@ufu.br
+telefone : +55 34 3239-4700
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/lorenco-santos-vasconcelos
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SL-EI9bZn7mI3budLFEfShkm8eUQyp8j_zAi8YvJUtqkYixM8yYKoF5VSkF8vFVgMeZgTvuVZOmrMq69y2vU7H'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RykhjEIoiNKjACCdVtoSKSQAl3_F0xWKqG0vzloN-QICuLKCfjJZLwMF1HDRSa9A2q_J7YElJkvr-cPc9ec4hv'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T_nz6el3BrT-BvWonuVfbVVgOUfWFla5LtlIozk5c0KqskvN4G_K6LxB_gb5mgz-ZZbPrg9GPjpUMRM5Lnuc0l'}
+index : 51
+
+
+name : Luciano Coutinho Gomes
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/3372531394380706
+email : lcgomes@ufu.br
+telefone : +55 34 3239-4722
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/luciano-coutinho-gomes
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S6_Xnf6KtOzrYIZRI3rSGsHRwzi-4HMT0azNNpVeV3k83bcLTpxTMXDrU3Vl7I9UdxurTFWXo2bYddzD7DcBP0'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SeSwPP9_x-OJE5ZLsJNsBKSHiI1zh63I6REgNQgJs0ILpulPuUVOktyTP0pPrIBozVCb8mT0a-Fwb7sHaS03Qt'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QFxDYxQ7LSS4C8tmtFEcve_--Y-WmOQBKwXVIFb-zbZ2X_aL5UoJcyfCXm88__pFh47zXP-lHCMLhVul9ivOR1'}
+index : 52
+
+
+name : Luciano Vieira Lima
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4147306444287969
+email : vieira@ufu.br
+telefone : +55 34 3239-4563
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/luciano-vieira-lima
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QNQcQwRF1f2SEdpjDdtq-YglxKxCYiOfgRmwT5WhgG2Z_JvmO3h6v5QcP_mDT5aYMIRrrT5oPTVjPl4BhNcgvP'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SOT8aCuW4ja-GsytlerNa9S6gFGmbvrAeZOzHtmIYWIb7S0n-MGAHH--zE4oIb45wkcB41d7W3RNKCsgKL8yJf'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QDgzzldZY8aplplZU0HA2YP-jbG7XzNRkNdIDFN6rshYeDXuRyRMsKlq6oaSlZTXGwRC-_8QeYTQoAR3RrP7kh'}
+index : 53
+
+
+name : Luciano Xavier Medeiros
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7858713275429336
+email : lucianox@ufu.br
+telefone : +55 34 3239-4728
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/luciano-xavier-medeiros
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TBv_eqffq8dMwbBQPl-PIHoAOdhGrnCHdm1SluuU6frXTyYOITs-KXHiFJvOsNcCh2_bE1wSu1FZrCFAbAeO29'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RgIVYZeNzxQ3Ad-sqoRfGnZ1i6tOLyNzbH8SHp0pe97iU1tssG589rGZmKMbwAm3waf1DhVddi79jz1MYTfsLB'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5ThCvgS2b0VEAB3PQaF3AwZfHP9qHFujC6ylAxYjhyYBLs_um_J4gsJNUA8WdlqA6-eZ4zfliLif5BDX1Y8Crqv'}
+index : 54
+
+
+name : Luiz Carlos Gomes de Freitas
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0855458644750836
+email : lcgfreitas@ufu.br
+telefone : +55 34 3239-4767
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/luiz-carlos-gomes-de-freitas
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TcVBG5UVHR3d-t0xptYc8VHdkPx7-6cInCe81CUfg7r-dplWBG_1VL1tT1lGi-9zM1tZvnjROI_A0WCmYox9tN'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5R7Inz1NE7lCVqsjj3gH3WTrri5JK1QNrj8WdsspEKsWgszdIcPLHh4zcXKLxsK7C4_hSBGk-h-CkCbH4-JxEeA'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RFOAZaUyLgufdiKbXB61mSVm3q7JiAUScUulu1K5PkNi2lQd1y3NX3D9DgfPySDVr3OpFo8-2QejKLv-EpDM5m'}
+index : 55
+
+
+name : Marcelo Barros de Almeida
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0711663486251657
+email : marcelo.barros@ufu.br
+telefone : +55 34 3239-4792
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/marcelo-barros-de-almeida
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RuHAEebwoOS_DV83W30gqyf6RoPuxe4sJ_tOe4QX7Qasuv-VK1dYOWE4v4Z4lwDpN7YreTYxiopInIu4lGgbzr'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SS2Rba4VXFOAhLSxGbU026m1d2xBKPN0TvnBsHAo7cR_rDe9GPmdv6AwrG848ZNvSEI2ZGRMiZFGvsuuxBF92j'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RgoTMz1GQP-zrkT8t885wWnH1fvLHWp8F_iaq-ngXtv6O7Np1gthsinfp7E0lWBjaNipTpfbdXLGkaEjVc6UZH'}
+index : 56
+
+
+name : Marcelo Rodrigues de Sousa
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1877457660315561
+email : marcelo@ufu.br
+telefone : +55 34 3239-4778
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/marcelo-rodrigues-de-sousa
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RZWkDz66QXZ8M07I4Etz_upervPyMi88Xddi16bDByTZ6VXEXsaKDdulkBSdVcwEm42E3CDNsT9Lav9amMll9l'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T9dzP4B1FYvgqpUaiRGU7DKXwsOxnF5vmrn1XfXmIy-egdKBbV8ciGkmB_OchUzna-a0nPMxaCypSfALoxPNfk'}
+index : 57
+
+
+name : Márcio José da Cunha
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/5012626154282569
+email : mjcunha@ufu.br
+telefone : +55 34 3239-4792
+faculdade : Engenharia de Computação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/marcio-jose-da-cunha
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Sam2RYpAewmKMt_NRAQdCzZOq_AsFpDz_1gE16sh_2bhPRkrLDAL42FO-FW1NB3Lg8vgx5PQ3OCRZmMwtcIJrY'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T18R3iAIecBlpvykBQn6iNRkj8RIyzUGZgyK6RtGdeIzq08DEg_pUDl7PpWmvYWh1RUz1AK9JWJsxufNPpKaot'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q8zDlfcUdzAucLeu9IWzJahpviUmNQE9xyR3lxnl0TdtNGTqzx_Fb4_BLQzqSn5xXnExUkuZ9uV6rkiLb00sL2'}
+index : 58
+
+
+name : Milena Bueno Pereira Carneiro
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4071349511490099
+email : milena@ufu.br
+telefone : +55 34 3239-4748
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/milena-bueno-pereira-carneiro
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SSDYAh85eVZBCrqPerNBILfu92HXBUqEapq2lc-j9cHHjskLqk0q5sM_B6mQUJQJJ5TLWG1h8uIRXixsatz1iP'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RQO7yP5FZ010PQYMTBf-tFAR98hja5AAnfDHuwvj8bLIAHxKXMXJSf-Ls35kzcCe10Dw_7R_OnrdEoZH6F6ewX'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SZ3HKNs8tNQHgHd6tk8T9SPDmtCb7DPGXjQY0PAbMrmlHdEFchkgJF00PyZ4C6gODpOnRwEuVne-DfuoNRTgMg'}
+index : 59
+
+
+name : Paulo Henrique Oliveira Rezende
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/2338311941319569
+email : paulohenrique.rezende@ufu.br
+telefone : +55 34 3239-4785
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/paulo-henrique-oliveira-rezende
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q6p_G2h8VUNYmH_pLJM1gwnj-AVxCXv9PqwQ8-NTEJ2XoFshJNwCbux8smOkCmewtYl0NVA4MuujjdaV0A2wTk'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tj3r4AfmRqLdqJFEAo2ReW5TewCIg2cdIJAezN0qS0jY-mRR9houlCbRMY0UG8INmNxOxxUFG5eGbWWJxFKrJK'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RO055ts1G9DmaXMvAeob1WzwrFl42hfbnnloDhdntYdUl7wyzU-1hf6fEZtOYVmHP6vvinyRwyS8ZjDTPCourY'}
+index : 60
+
+
+name : Paulo Roberto Guardieiro
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4115942565606954
+email : prguardieiro@ufu.br
+telefone : +55 34 3239-4747
+faculdade : Engenharia Eletrônica e de Telecomunicações Santa Mônica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/paulo-roberto-guardieiro
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RMHHr81YlkHCqiIkgNTsjqSYi66E0gS_CRA_YGVTUQNlfZEyT8WkAgXpBcrzOQXVNMgkMKEIxBLZ1BLxnNDpMa'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SN10gObE0OJ1Kp4gaECJwUa913lLcv0RMn5maBE0LxVjGgGxvTbR3wnt_2YxBCX0KdWxS-j_tLnj5Uporq4cIi'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T5A2uCjdtfIWdJxukrKWBXOTbwVAlJ-SNEiDjQM25SYvcJcuRRFXHKilUPnIdZ1AlRmtMr-Di0qnJD8LUaiKto'}
+index : 61
+
+
+name : Pedro Luiz Lima Bertarini
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/6101890440707894
+email : pbertarini@yahoo.com.br
+telefone : +55 34 3821-0588
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/pedro-luiz-lima-bertarini
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SDsUz3jJfIcWpINR1sHkXRSoaND3dMvudyK0raXXdYgQOFnHC45DYFFhfZUfykk_Pk7q65HVlIozGgSXluE7vi'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T05W_oBvdYUAKCnFheJWN79QAbyLOfvSoS_C2zGb5TSVNgGzwE6-xRzfdMYXbJrdTlzcjSEiGhuZttT4vK7zsZ'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q8PAqbVzZbyuGZTJdx-Zti94ZaEOB4fhK6wN6byq0W1c3vhXnboN9CU75wGBJ0DJfJ9jDoXZFjjq03unwVIKhT'}
+index : 62
+
+
+name : Priscila Crisfir Almeida Diniz
+status : Professor Substituto
+lates : http://lattes.cnpq.br/8247950944002033
+email : priscilacrisfir@gmail.com
+telefone : +55 34 3821-0588
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/priscila-crisfir-almeida-diniz
+link_pdf_plano_de_ensino : {}
+index : 63
+
+
+name : Renan Alves dos Santos
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0181780491504693
+email : renans@ufu.br
+telefone : +55 34 3825-8871
+faculdade : Engenharia Eletrônica e de Telecomunicações Patos de Minas
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/renan-alves-dos-santos
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QbeOVNAh0E8xAgdYV069C4IKdsMUYkr0lExfpC3mTN9TtqmaZ9ISovSmBp3YXkjkG4bTpZMgF462Sd74yocjqt'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T8PJTuaCVqdRkH9VbsjxpD-DD6X78Y4iuj3C77i-1f0feLDyYBv9Gm1xAsthV0xOAk5-ol_r2adG_CwixC6Yei'}
+index : 64
+
+
+name : Renato Ferreira Fernandes Júnior
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/0072425749854092
+email : rffernandes@ufu.br
+telefone : +55 34 3239-4781
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/renato-ferreira-fernandes-junior
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QI3HkWJqzpJ28GnP1PoirwvaDfZWm6IyTpF7SskCdCZsV7_cNxofngSIEcBL0n_0Ujk8uEHbfBMmDS4X_ff9J8'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SlAddGRnvpE6_Oopwvx0uiuzOyD1efLsvzo1Prdx9snl--D4Nz811KL8oI9MZQ6lFCUctcvdpgUGY_N5AVmTl7'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T7WpMFeCdfULYNjBa2daGEZODRT_Ld3G4Bpe-FceoxV07u_gDhvbytbxAlXX0u7mghLKTf-i009KpYyip7jLQj'}
+index : 65
+
+
+name : Renato Santos Carrijo
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/8768171533090080
+email : rscarrijo@ufu.br
+telefone : +55 34 3239-4768
+faculdade : Engenharia de Controle e Automação
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/renato-santos-carrijo
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Tw38imbZnBlZZzen6J0QKSRfo2sQLH95gWEb70JNJWXIp502T4YxqWJ45Ts11mnMGqdTmXRL9sffQRSAOI3cyR'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SiBqgY3ejsKGFqNdBsVEOzaq0YZcCYRRY2gtGEZst5XnEW--05K2Turxl0fNfGKd22CJflfW2Lcj0jTmHrHQAE'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QaUpl7tcV8roIFYifl3NmRoJ-aX-R4HpDs8M_Oj6hA1YTiYh2ORpMX-Fz6I6z0Mk-rxTf0NR3LZZvNqxdZRfYy'}
+index : 66
+
+
+name : Sebastião Camargo Guimarães Júnior
+status : Professor Voluntário
+lates : http://lattes.cnpq.br/4375583997660468
+email : scguimaraes@ufu.br
+telefone : +55 34 3239-4701
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/sebastiao-camargo-guimaraes-junior
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QctlQD4mtwmrhKbzrkH51xWPlX4qIoAexOwVioEf4RmJhBtFWwVHm2YyKAJ0emndkGN7F9mwFi_nYXYrb03lFr'}
+index : 67
+
+
+name : Selma Terezinha Milagre
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/4980687835840176
+email : selma.milagre@ufu.br
+telefone : +55 34 3239-4726
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/selma-terezinha-milagre
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5S_qIlif2CgMYPDlN8boPyo0j92gdNEcNULXK5Lacwznto6RqcjRas12rELAJvZ7tWm7aEeoqGKt9p8JM7PKgut'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5T6b42yeO5Lz-zMA8wpqCA3YmGYGAexKOnSWq4PIPqtoJrRamsZPiCKYDbKcSvj9oLzuQ_n-oA1HhADVQIdmaMI'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RuUuGjKBKV3r3cdtKeEMrexYr0OJmWJJGTqDtrwj3EXTOeDC4PA65cJ9qGOewEkfVxzYLoBC-P2wWN0xXGkzEI'}
+index : 68
+
+
+name : Sérgio Ferreira de Paula Silva
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/7218109563951203
+email : s.ferreiradepaula@ufu.br
+telefone : +55 34 3239-4712
+faculdade : Engenharia Elétrica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/sergio-ferreira-de-paula-silva
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5SnJzHDseyowTPP2ZSJvO0blleHeiIyWEsZIFGzvqsLyQSdCiJ8pWGg_4qrzWiNIwIfNfoGqAC-ozuH355pSxMF'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5QtY72w3kYZawcV3yW2HKMpDCFaKcvE2d2gXJ0CCj6rPWmuHpdh9PI7KhZnLM8E1LTfuDCuNCBM0Gyq5t303j4e'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5TZH-9EOfAUZhOfZOOnCSq0a1CRGsY_xomfDUs-HwZpCkpwHGX4RBqHllNEaK5JgFCSc88JUeuteWG7y7tKmVhV'}
+index : 69
+
+
+name : Sérgio Ricardo de Jesus Oliveira
+status : Professor Efetivo
+lates : http://lattes.cnpq.br/1434903162665776
+email : srjesus@ufu.br
+telefone : +55 34 3239-4713
+faculdade : Engenharia Biomédica
+link_do_docente : http://www.feelt.ufu.br/pessoas/docentes/sergio-ricardo-de-jesus-oliveira
+link_pdf_plano_de_ensino : {'2019 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5Q8obAujYEcnT0DI3i4njMUtBQ65RfudgnIAYbInurTcixN8ZbWEKjpfFUem-FujLuO3RIzCGjeDrK93XnBlyU7'
+'2019 - 1': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RJWol1qX7NU5B-cmjSRnl2SDKvbatGSHegPtujjITa40Ij3aAEVBt_KCQ3Cb2ULONCF6qqG-Tbm-BF2RM1Uq5A'
+'2018 - 2': 'https://www.sei.ufu.br/sei/modulos/pesquisa/md_pesq_documento_consulta_externa.php?9LibXMqGnN7gSpLFOOgUQFziRouBJ5VnVL5b7-UrE5RyyUaOa9y1gL7NHVZAqX5p6Zz5sFkvVlGG3fMRwL1nveeMmU7Ppf0nwDdk6ykRx5lDMGfH70r4xO6AQC-ZRdFp'}
+index : 70
+
+
